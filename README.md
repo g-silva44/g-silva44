@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Genilson Silva
 
-💻 Desenvolvedor focado em desenvolvimento web, automação e soluções práticas.
+💻 Desenvolvedor focado em desenvolvimento web.
 
 ---
 
