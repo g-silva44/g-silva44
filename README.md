@@ -4,7 +4,7 @@
 - Formando em Análise e Desenvolvimento de Sistemas
 - Estudando tecnologias para me tornar Full Stack
 - Crio soluções confiáveis, escaláveis e de alta performance
-- Estou desenvolvendo um SaaS multi-tenant para gestão de estética automotiva
+- Estou desenvolvendo um SaaS multi-tenancy para gestão de estética automotiva
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/genilson-silva-843b5425b/" target="_blank" >
